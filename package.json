@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "dependencies": {
-    "express": "^5.1.0"
-  }
-=======
+
   "name": "nodejs-tutorial",
   "version": "1.0.0",
   "description": "This is the begnning of nodejs",
@@ -25,5 +21,4 @@
     "progress": "^2.0.3"
   },
   "keywords": []
->>>>>>> 1920393ce315a7ddad6c41aa4bfcc2f7d2b52648
 }
